@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Three County Plumbing">
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="#0b2a4a"/>
+  <g transform="translate(14,7) scale(0.36)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#f07300"/>
+  </g>
+  <rect x="14" y="48" width="36" height="5" rx="2.5" fill="#f07300"/>
+</svg>
