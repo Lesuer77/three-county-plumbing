@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-label="Three County Plumbing — Montgomery, Bucks, Chester">
+  <rect x="0" y="0" width="720" height="560" fill="#0b2a4a"/>
+  <!-- Badge -->
+  <rect x="250" y="30" width="220" height="220" rx="46" fill="#0b2a4a" stroke="#41648a" stroke-width="2"/>
+  <g transform="translate(268,58) scale(0.6)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#ffffff"/>
+  </g>
+  <g transform="translate(330,58) scale(0.6)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#f07300"/>
+  </g>
+  <g transform="translate(392,58) scale(0.6)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#38bdf8"/>
+  </g>
+  <rect x="286" y="192" width="148" height="11" rx="5.5" fill="#f07300"/>
+  <rect x="286" y="214" width="148" height="5" rx="2.5" fill="#41648a"/>
+  <!-- Wordmark -->
+  <text x="360" y="348" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" fill="#ffffff">THREE COUNTY</text>
+  <text x="369" y="420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#f07300" letter-spacing="18">PLUMBING</text>
+  <text x="363" y="486" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#e8f1f9" letter-spacing="6">MONTGOMERY &#183; BUCKS &#183; CHESTER</text>
+</svg>
