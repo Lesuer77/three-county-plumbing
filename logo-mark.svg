@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Three County Plumbing logo mark">
+  <!-- Badge: deep navy rounded square (site navy #0b2a4a) -->
+  <rect x="4" y="4" width="232" height="232" rx="48" fill="#0b2a4a"/>
+  <!-- Three drops = three counties. Drop path drawn in a 100x100 box, scaled 0.62 -->
+  <g transform="translate(24,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#ffffff"/>
+  </g>
+  <g transform="translate(87,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#f07300"/>
+  </g>
+  <g transform="translate(150,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#38bdf8"/>
+  </g>
+  <!-- Pipe bar under the drops -->
+  <rect x="40" y="168" width="160" height="12" rx="6" fill="#f07300"/>
+  <rect x="40" y="192" width="160" height="6" rx="3" fill="#41648a"/>
+</svg>
