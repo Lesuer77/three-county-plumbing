@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-label="Three County Plumbing">
+  <rect x="4" y="4" width="232" height="232" rx="48" fill="#0b2a4a"/>
+  <g transform="translate(24,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#ffffff"/>
+  </g>
+  <g transform="translate(87,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#f07300"/>
+  </g>
+  <g transform="translate(150,32) scale(0.66)">
+    <path d="M50 2 C50 2 18 38 18 58 a32 32 0 1 0 64 0 C82 38 50 2 50 2 Z" fill="#38bdf8"/>
+  </g>
+  <rect x="40" y="168" width="160" height="12" rx="6" fill="#f07300"/>
+  <rect x="40" y="192" width="160" height="6" rx="3" fill="#41648a"/>
+  <text x="272" y="112" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#0b2a4a" letter-spacing="0.5">THREE COUNTY</text>
+  <text x="274" y="172" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#c95e00" letter-spacing="16">PLUMBING</text>
+  <text x="275" y="216" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#41586e" letter-spacing="5">MONTGOMERY &#183; BUCKS &#183; CHESTER</text>
+</svg>
